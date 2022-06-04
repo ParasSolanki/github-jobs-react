@@ -1,0 +1,13 @@
+.search-container {
+  background-image: linear-gradient(
+      to top left,
+      rgba(0, 0, 0, 0.3) 40%,
+      rgba(0, 0, 0, 0.1) 55%,
+      rgba(0, 0, 0, 0.06)
+    ),
+    url('../assets/images/building-background-webp.webp'),
+    url('../assets/images/building-background-jpg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
