@@ -11,7 +11,7 @@ I wanted to make this project but i came to know that Github job API is deprecat
 
 ## Installation
 
-Install my-project with npm
+Install with yarn
 
 ```bash
   yarn dev
@@ -19,7 +19,7 @@ Install my-project with npm
 
 ## Build
 
-To deploy this project run
+To build this project run
 
 ```bash
   yarn build
